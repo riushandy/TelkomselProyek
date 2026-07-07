@@ -1,6 +1,6 @@
 # Inventory Management System
 
-Prototype aplikasi **Inventory Management System** berbasis web menggunakan **Laravel 11** untuk memenuhi Challenge Seleksi Magang Sistem Informasi PT Telkomsel.
+Prototype aplikasi **Inventory Management System** berbasis web menggunakan **Laravel 11**.
 
 ## 🚀 Tech Stack
 
